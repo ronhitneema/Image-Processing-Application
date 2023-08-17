@@ -1,6 +1,5 @@
 # Image Processing Program
 
--   Priyanshu Srivastava [srivastava.pri\@northeastern.edu](mailto:srivastava.pri@northeastern.edu){.email}
 -   Ronhit Neema [neema.r\@northeastern.edu](mailto:neema.r@northeastern.edu){.email}
 -   Assignment 6 Image Processor
 
